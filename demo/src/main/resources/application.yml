@@ -3,7 +3,7 @@ spring:
     name: healthcare-records-api
 
   datasource:
-    url: jdbc:postgresql://localhost:5433/healthcare_db
+    url: jdbc:postgresql://localhost:5432/healthcare_db
     username: postgres
     password: patel
 
